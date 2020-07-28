@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="closed_drawer">Closed Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="sort_action">sort action</string>
+    <string name="about_app_details">This is a book app where you can see a list of book fetched from the internet with the help
+                                     of api "http://13.235.250.119/v1/book/fetch_books/" and also you can we the details of book ,also
+                                    you can add them into favourites section and can also remove from there.
+                                    </string>
+</resources>
